@@ -1,5 +1,5 @@
 # simpleCipher
-## Simple Cipher text generator that was built for a school project. It is a modified Ceasar Cipher that uses a Key and pseudo-random letter assignment to encipher a plain  text. Turns a padded key and plain text into numerical values assigned via dictionary, adds the numerical values together, manipulate values to ensure they are within the dictionary limits, output to cipher text. 
+### Simple cipher text generator that was built for a school project. It is a modified Ceasar Cipher that uses a Key and pseudo-random letter assignment to encipher a plain  text. Turns a padded key and plain text into numerical values assigned via dictionary, adds the numerical values together, manipulate values to ensure they are within the dictionary limits, output to cipher text. 
 
 ### Input: Text file with plain text. Treasure Island by Robert Louis Stevenson is used in this example.
 
