@@ -57,5 +57,11 @@
 - If they are still over limit, subtract 15.
 - Assign values in this new list, values from dictionary. Output as string
 
+##### Example of Cipher Text
+uzwhlknjng4yxirfi!4if22o21x!iewy!i@wperhf6!2fi!xp2y@wwxizirw2rx7@wif22o@w12!x7iywi21er62rier607i!ie
+
 #### Decryption Process
 - Reverse of above
+
+##### Cipher Decrypted
+TheProjectGutenbergEBookofTreasureIslandbyRobertLouisStevensonThiseBookisfortheuseofanyoneanywherea
